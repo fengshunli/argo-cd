@@ -125,7 +125,7 @@ require (
 	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
-	github.com/docker/distribution v2.8.1+incompatible // indirect
+	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/emicklei/go-restful/v3 v3.9.0 // indirect
 	github.com/emirpasic/gods v1.18.1 // indirect
 	github.com/evanphx/json-patch/v5 v5.6.0 // indirect
@@ -247,7 +247,7 @@ require (
 )
 
 replace (
-	github.com/argoproj/gitops-engine => github.com/fengshunli/gitops-engine v0.7.1-0.20230608143836-bd5248bb6b4f
+	github.com/argoproj/gitops-engine => github.com/blakepettersson/gitops-engine v0.0.0-20230817215925-fff71d9ae72b
 	// https://github.com/golang/go/issues/33546#issuecomment-519656923
 	github.com/go-check/check => github.com/go-check/check v0.0.0-20180628173108-788fd7840127
 
